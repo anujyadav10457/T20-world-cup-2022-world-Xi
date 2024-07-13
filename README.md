@@ -58,8 +58,8 @@ Interact with Visuals: Use the various filters and visualizations to explore pla
 
 ## File Structure
 
-data/: Contains the raw and processed data from the 2022 Cricket World Cup.  
-PowerBI/: The Power BI project file with all visualizations and analysis.  
+t20_csv_files : Contains the raw and processed data from the 2022 Cricket World Cup.  
+T20 world cup 2022 world 11: The Power BI project file with all visualizations and analysis.  
 README.md: This readme file. 
 
 ## Future Work  
