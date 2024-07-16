@@ -1,4 +1,4 @@
-# T20 world cup 2022 World XI  
+# T20 world cup 2022 World 11 is the final dashboard
 
 # Cricket World Cup 2022 Data Analysis and Team Prediction  
 ## Overview  
